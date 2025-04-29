@@ -1,13 +1,6 @@
 ```markdown
 # 🚀 PROYECTO: Sistema de Gestión de Productos con Java Streams  
 *¡Donde la eficiencia se encuentra con el control estricto!*  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-17%2B-ff8c00?logo=java">
-  <img src="https://img.shields.io/badge/Licencia-¡Usalo!-brightgreen">
-  <img src="https://img.shields.io/badge/Interfaz-Amistosa-blueviolet">
-</div>
-
 ---
 
 ## 🔥 **¿PARA QUÉ SIRVE ESTE PROYECTO?**  
@@ -60,7 +53,10 @@ src/
 ## 📸 **GALERÍA (IMAGINA ESTAS IMÁGENES)**  
 | Menú Principal | Agregar Producto | Error Duplicado |  
 |----------------|-------------------|------------------|  
-| ![Menú](https://via.placeholder.com/400x250/333/fff?text=Menú+800x500) | ![Agregar](https://via.placeholder.com/400x250/333/fff?text=Campos+de+Registro) | ![Error](https://via.placeholder.com/400x250/ff0000/fff?text=¡Error+Duplicado!) |  
+| ![Menú](![image](https://github.com/user-attachments/assets/9f375bea-f5bb-482e-810e-c3d87faeac39)
+) | ![Agregar](![image](https://github.com/user-attachments/assets/c90bb3ad-1bc9-4951-9358-1bd514fccdd1)
+) | ![Error]![image](https://github.com/user-attachments/assets/03039d6f-3404-4adb-b268-683b4d2e4704)
+|  
 
 ---
 
