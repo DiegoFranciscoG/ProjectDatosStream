@@ -70,13 +70,3 @@ src/
   <img src="https://i.pinimg.com/736x/ef/22/a9/ef22a95fd02b6be74890e280d01f46e9.jpg">
 </div>
 ```
-
-### ✨ Características del Diseño:
-- **Iconografía Emotiva**: Cada sección con emojis relevantes
-- **Badges Dinámicos**: Shields.io para detalles técnicos
-- **Tablas Organizadas**: Información clara y visual
-- **Colores Coordinados**: Combinación profesional
-- **Llamados a la Acción**: Botones visuales para estrellas
-- **Responsive**: Se adapta a cualquier pantalla
-
-¡Listo para impresionar en GitHub! 
